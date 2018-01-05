@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+.container{
+    background-color: brown;
+}
+title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+}
+footer{
+border: width border-style color;
+color: rgb(198, 154, 240)
+text-align: center;
+
+}
+
+.flex-container {
+    display: flex;
+    display: -webkit-flex
+    width: 100%
+}
+
+.flex-section {
+
+}
+
+.flex-item {
+    margin: 1em;
+}
